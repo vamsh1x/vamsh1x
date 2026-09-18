@@ -1,7 +1,7 @@
 # Hi there, I'm Vamshi Angothu 👋
 
 
-Site Reliability Engineer working in the identity space — currently at **TCS** on contract with **Humana**. I live in the world of **ForgeRock / Ping Identity**: PingAM, PingIDM, PingDS, and PingGateway, keeping production identity systems healthy.
+Site Reliability Engineer working in the identity space — currently at **TCS**. I live in the world of **ForgeRock / Ping Identity**: PingAM, PingIDM, PingDS, and PingGateway, keeping production identity systems healthy.
 
 
 ## What I do
